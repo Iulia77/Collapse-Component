@@ -1,0 +1,15 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+
+
+.collapse button {
+    font-size: 2rem;   /* HW: How much is this?  It will be 32px , the browser used by default (16px)*/
+    padding: 1em;      /* HW: How much is this?  Padding is 32px, related to the root element */
+
+    background-color: #234;
+    border: 1px solid #456;
+    color: #789;
+}
